@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ロマンス宣言",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2025-12-03T23:28:47.981302Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "Ayano Kaneko",
+      "has_synced": true,
+      "path": "select/01_ロマンス宣言_Ayano_Kaneko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/02_ロマンス宣言_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/03_ロマンス宣言_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/04_ロマンス宣言_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/05_ロマンス宣言_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/06_ロマンス宣言_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "カネコアヤノ",
+      "has_synced": true,
+      "path": "select/07_ロマンス宣言_カネコアヤノ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロマンス宣言 - Romance Sengen",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/08_ロマンス宣言_-_Romance_Sengen_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロマンス宣言",
+      "artist": "Kaneko Ayano",
+      "has_synced": true,
+      "path": "select/09_ロマンス宣言_Kaneko_Ayano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロマンス宣言",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_ロマンス宣言_カネコアヤノ.txt"
+    }
+  ]
+}
